@@ -1,0 +1,38 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    background-color: #fff;
+    color: #444;
+    
+  }
+  
+  .product {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 8px;
+  }
+
+  .product img{
+      height: 200px;
+      width: 100%;
+  }
+
+  .product h1{
+    font-size: 30px;
+  }
+
+  .product h2{
+    font-size: 20px;
+  }
+
+  .product p{
+    font-size: 15px;
+  }
+
+  .product a{
+    color: white;
+    font-size: 20px;
+  }

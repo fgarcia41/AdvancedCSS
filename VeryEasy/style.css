@@ -1,0 +1,17 @@
+.checkers{
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+}
+
+.white{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.black{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
